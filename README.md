@@ -12,7 +12,7 @@ This application allows users to translate text or uploaded files (TXT, PDF, CSV
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone Praveensjk/PythonProject
 cd CapstoneProject
 ```
 
@@ -73,3 +73,4 @@ streamlit run main.py
 ---
 
 For more details, see the [full documentation](README.md).
+
